@@ -6,7 +6,7 @@ public class HelloWorld {
 		System.out.println("hello world");
 
 		try {
-			System.out.println("hihi");
+			System.out.println("haha");
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
